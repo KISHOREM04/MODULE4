@@ -1,6 +1,6 @@
 # Ex.No:3
 # Ex.Name: Write a CPP program to demonstrate on the object composition (use string data) 
-## Date:
+## Date: 28/08/2025
 ## Aim:
 To write a C++ program to demonstrate object composition where one class is used inside another class, making use of string data.
 
